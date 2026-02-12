@@ -1,0 +1,9 @@
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\bin\Debug\Webcam_Protection.exe.config
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\bin\Debug\Webcam_Protection.exe
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\bin\Debug\Webcam_Protection.pdb
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\obj\Debug\Webcam_Protection.csproj.AssemblyReference.cache
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\obj\Debug\Webcam_Protection.Properties.Resources.resources
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\obj\Debug\Webcam_Protection.csproj.GenerateResource.cache
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\obj\Debug\Webcam_Protection.csproj.CoreCompileInputs.cache
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\obj\Debug\Webcam_Protection.exe
+D:\Data\Tailieu\Projects\C#\Webcam_Protection\Webcam_Protection\obj\Debug\Webcam_Protection.pdb
